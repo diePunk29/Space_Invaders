@@ -1,7 +1,6 @@
 '''
     Author: Cristian Mosqueda
     Purpose: Practice making space invaders in Python..
-    Maybe make a project of my own like this during my free time!
 '''
 # importing pygame + random (rand num generator)
 import pygame
